@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SUDOKUTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2022-12-01T15:18:39" hostname="SDHAVALE-NB" time="0.058">
+  <properties/>
+  <testcase name="Regular Solution should work" classname="SUDOKUTest" time="0.032"/>
+  <testcase name="testFileInput()" classname="SUDOKUTest" time="0.013"/>
+  <testcase name="whenExceptionThrown_thenAssertionSucceeds()" classname="SUDOKUTest" time="0.004"/>
+  <testcase name="ExceptionThrownInvalidData_thenAssertionSucceeds()" classname="SUDOKUTest" time="0.004"/>
+  <testcase name="Invalid Solution should not work" classname="SUDOKUTest" time="0.001"/>
+  <system-out><![CDATA[Given SUDOKU is valid
+Given SUDOKU is not valid
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
